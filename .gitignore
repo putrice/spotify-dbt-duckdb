@@ -6,3 +6,4 @@ dbt_modules/
 profiles.yml
 spotify_million_playlist_dataset/
 *.parquet
+**/.DS_Store
